@@ -1,7 +1,3 @@
-# python-dsa-august-2025
-My daily Python + DSA practice for August 2025.
-
-
 # 🐍 Python + DSA Practice – August 2025  
 
 This repository contains my **daily Python programming and Data Structures & Algorithms (DSA) practice** for **August 2025**.  
